@@ -1,0 +1,8 @@
+{
+  "name": "Remix: LACASO Summer 2026",
+  "description": "Premium summer collection showcase for LACASO, featuring structured bags and elegant footwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
